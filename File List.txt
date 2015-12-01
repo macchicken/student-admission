@@ -1,0 +1,42 @@
+Presentation.ppt			//Presentation slides
+Final Report.pdf			//Final Report
+database.sql				//database schema for the project
+
+Source Code (directory)		
+	.htaccess			//Login authentication
+
+	Root folder:
+		acdcomments.php		//View all academic comment
+		allcomment.php 		//View all administrator comment
+		editacdcomment.php	//Form for edit academic comment
+		editapp.php		//Form for edit applicant basic detail
+		editrsadmin.php		//Form for edit research admin
+		email.php		//Email function
+		hidedocument.php	//Script to hide document
+		index.php		//Index to autodirect when login
+		insertdoc.php		//Script to upload file
+		main.php		//View Administrator main page
+		removesupervisor.php	//Script to remove a supervisor
+		savebasicdetail.php	//Script to save a student basic details
+		search.php		//Script to search a applicant
+		sendInitialEmail.php	//Script to send initial email
+		sortapp.php		//View applicant in differnt catagories
+		spvsinfo.php		//View research admin
+		updateacdcomment.php	//Script to update academic comment form
+		updatersadmin.php	//Script to update research admin form
+		updatespvsinfo.php	//Script to update supervisor information
+		viewacdcomment.php	//View academic comment page
+		viewapplication.php	//View application page
+	CSS	
+		header.css		//Layout of header
+		phd.css			//Layout of body
+	func
+		access.php		//Check administrator status
+		connect.php		//Conect to database
+		inputcheck.php		//Check form input
+		login.php		//Redirect
+	icon
+		(Button images used) 	//Every icon used
+	secure
+		.htaccess		//Security
+	uploads				//Folder to store uploaded file

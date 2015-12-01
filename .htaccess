@@ -1,0 +1,5 @@
+SSLrequireSSL
+AuthType KerberosV5
+AuthName "DoC Academic Only. Please provide your username and password:"
+require group academics g0836218
+satisfy all
