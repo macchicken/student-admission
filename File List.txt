@@ -1,5 +1,3 @@
-Presentation.ppt			//Presentation slides
-Final Report.pdf			//Final Report
 database.sql				//database schema for the project
 
 Source Code (directory)		
